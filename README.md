@@ -1,3 +1,3 @@
-# Prove - Community Health Files
+# Checkmango - Community Health Files
 
-This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`prove-dev`](https://github.com/prove-dev) organisation.
+This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`checkmango`](https://github.com/checkmango) organisation.
