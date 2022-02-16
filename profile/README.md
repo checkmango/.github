@@ -1,4 +1,4 @@
-![Checkmango Header Image](https://raw.githubusercontent.com/checkmango/art/master/logo-dark@2x.png)
+![Checkmango Header Image](https://raw.githubusercontent.com/checkmango/art/master/socialcard@2x.png)
 
 Full Stack A/B Testing Made Easy.
 
