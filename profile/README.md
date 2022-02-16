@@ -2,4 +2,4 @@
 
 Full Stack A/B Testing Made Easy.
 
-Don't guess, prove it [Checkmango](https://checkmango.com)Che. Optimize the engagement and conversion rates of your website with our straightforward A/B testing platform.
+Don't guess, prove it [Checkmango](https://checkmango.com). Optimize the engagement and conversion rates of your website with our straightforward A/B testing platform.
